@@ -1,0 +1,22 @@
+.fond {
+  background-color: #424242;
+}
+
+.nav {
+  display: flex;
+  justify-content: center;
+  font-family: pompiere;
+  padding-bottom: 0%;
+  align-items: center;
+  margin-top: -4%;
+  margin-bottom: 3%;
+}
+
+.depart-arriver {
+  text-align: center;
+}
+
+.user {
+  text-align: center;
+  align-items: center;
+}

@@ -1,0 +1,7 @@
+.inscription {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  padding-inline: 25rem;
+  justify-content: center;
+}

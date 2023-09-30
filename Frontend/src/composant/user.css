@@ -1,0 +1,52 @@
+.case {
+  background-color: #0489b1c9;
+  border-radius: 20px;
+}
+
+.spacing {
+  border-spacing: 3rem;
+}
+
+.Backgound {
+  display: flex;
+  justify-content: center;
+}
+
+.pp {
+  width: 150px;
+  height: 150px;
+  padding: 15px;
+  border-radius: 20%;
+}
+
+.depart-pp {
+  display: flex;
+  align-items: center;
+  padding-inline: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+
+.display {
+  display: flex;
+  align-items: center;
+}
+
+.H2 {
+  color: rgba(255, 255, 255, 0.527);
+  font-size: 50px;
+  font-family: "Anton";
+  padding: 0.8rem;
+}
+
+.H3 {
+  color: black;
+  font-size: 1.4rem;
+  font-family: pompiere;
+  padding: 4px;
+}
+
+.blanc {
+  color: aliceblue;
+  font-family: pompiere;
+  font-size: 1.2rem;
+}

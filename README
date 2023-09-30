@@ -1,0 +1,5 @@
+# Pour un bon fonctionnement de Trajet Work
+
+### # Lancer la base de donné dans le "\Backend" avec la commande `npm start`
+
+### # Lancer l'appWeb dans le "\Frontend" avec la commande `npm run dev`
